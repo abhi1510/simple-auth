@@ -1,0 +1,16 @@
+{
+  "name": "basic-auth",
+  "version": "1.0.0",
+  "description": "this is a basic authenticatio using HTTP headers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Abhinav Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "morgan": "^1.8.2"
+  }
+}
